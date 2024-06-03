@@ -3,7 +3,7 @@
   [
     {
       "type": "wireguard",
-      "tag": "iran",
+      "tag": "IR",
       "server": "162.159.192.55",
       "server_port": 942,
 
@@ -21,7 +21,7 @@
     {
       "type": "wireguard",
       "tag": "germany",
-      "detour": "iran",
+      "detour": "IR",
       "server": "162.159.192.55",
       "server_port": 942,
       
